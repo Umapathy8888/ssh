@@ -1,4 +1,4 @@
-# SSH Resource
+# SSH Resource 
 
 A resource for running a command through SSH primarily for simple deploys based on a small alpine base image.
 
